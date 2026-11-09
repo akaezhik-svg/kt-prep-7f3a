@@ -1,0 +1,30 @@
+{
+ "name": "Программа подготовки Константин",
+ "short_name": "Константин",
+ "description": "Бег, реабилитация и силовые: 7 ноября 2026 – 1 мая 2027",
+ "lang": "ru",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0B2B40",
+ "theme_color": "#0B2B40",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
